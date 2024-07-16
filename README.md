@@ -22,5 +22,5 @@ The code was developed by us and these files are selected to demonstrate the cor
 
 The source code is available on GitHub. You can clone the repository using the following command:
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone [https://github.com/yourusername/your-repository.git](https://github.com/NicoGruemmert/PlantPal/)
 ```
